@@ -2,6 +2,10 @@
 Setup for my Stealthchanger
 Install RaspiOS 64bit Lite
 Log in via SSH
+
+I am utilising a Kraken Controller, Raspberry Pi 4B+ with a USB SSD
+
+
 Run:
 ```
 sudo apt update
